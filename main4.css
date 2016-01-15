@@ -1,0 +1,22 @@
+ .yellow{
+
+       background-color:yellow;
+       padding:10px;
+       margin:10px;
+       display:inline;
+       width:200px;
+       height:15px;
+       text-align: center;
+
+       }
+
+  .red{
+
+  	  background-color: red;
+  	  padding:10px; 
+  	  margin:10px;
+      display:inline;
+      width:600px;
+      height:15px;
+      text-align:center;
+  }     
